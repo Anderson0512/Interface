@@ -1,8 +1,7 @@
 package org.example.service;
 
-import org.example.model.model.entities.CarRental;
-import org.example.model.model.entities.Invoice;
-import org.example.model.model.entities.Vehicle;
+import org.example.model.entities.CarRental;
+import org.example.model.entities.Vehicle;
 
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
